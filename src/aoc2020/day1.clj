@@ -1,4 +1,4 @@
-(ns day1.core)
+(ns aoc2020.day1)
 
 (defn find2020-part1
   [x]

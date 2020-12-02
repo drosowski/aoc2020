@@ -1,6 +1,6 @@
-(ns day1.core-test
+(ns aoc2020.day1-test
   (:require [clojure.test :refer :all]
-            [day1.core :refer :all]))
+            [aoc2020.day1 :refer :all]))
 
 (deftest a-test
   (testing "find pair that has sum of 2020 in list"
